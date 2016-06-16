@@ -1,0 +1,4 @@
+FastConfig
+==========
+
+Generate configs fast.
